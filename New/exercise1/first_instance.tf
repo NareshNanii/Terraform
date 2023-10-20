@@ -14,9 +14,4 @@ resource "aws_instance" "intro" {
     Name    = "Dove-Instance"
     Project = "Dove"
   }
-}
-
-
-
-
-Test this edited file 
+} 
